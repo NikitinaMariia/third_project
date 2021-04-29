@@ -1,0 +1,16 @@
+.two-columns__paragraph{
+    margin: 0px 0px 30px 0px;
+    border: 1px solid red;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+  }
+  .two-columns__span-accent{
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: bolder;
+  }
+  .two-columns__paragraph:last-of-type
+  {
+    margin-bottom: 0px;
+  }
